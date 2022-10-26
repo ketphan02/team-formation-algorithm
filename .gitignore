@@ -1,0 +1,3 @@
+# Git ignore for python
+**/__pycache__
+venv/
